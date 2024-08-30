@@ -78,6 +78,13 @@ The **Nutrition App Using Gemini Pro** is a sophisticated web application that p
 2. **Upload Image**: Select and upload an image of the food items.
 3. **Submit**: Click the "Tell me the total calories" button to receive nutritional analysis.
 
+
+## Image
+
+Here is a screenshot of the application:
+
+![Nutrition App Screenshot](https://miro.medium.com/v2/resize:fit:1400/1*5uNikb66besce6vEASR3bQ.png)
+
 ## Contributing
 
 Contributions are welcome! Please submit issues or pull requests for enhancements or bug fixes.
