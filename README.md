@@ -89,13 +89,25 @@ Here is a screenshot of the application:
 
 Contributions are welcome! Please submit issues or pull requests for enhancements or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
 - [Streamlit](https://streamlit.io/) for enabling rapid development of web applications.
 - [Gemini Pro](https://gemini.google.com/) for providing advanced AI capabilities.
 - [Pillow (PIL)](https://python-pillow.org/) for image manipulation support.
+
+## Resources
+
+The following resources were used to guide the development of this project:
+
+### Generative AI Concepts:
+- **NLP**: [TutorialsPoint - Natural Language Processing](https://www.tutorialspoint.com/natural_language_processing/index.htm)
+- **Generative AI**: [Wikipedia - Generative Artificial Intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
+
+### Gemini Pro:
+- **Google**: [Gemini API Documentation](https://developers.google.com/)
+
+### Streamlit:
+- **GeeksforGeeks**: [A Beginner's Guide to Streamlit](https://www.geeksforgeeks.org/a-beginners-guide-to-streamlit/)
+
 
